@@ -1,7 +1,7 @@
 Hi, you just reached the GitHub profile of [Antonio Sberna](antoniosberna.github.io/).
 
 I’m currently a PhD student at [Polytechnique University of Turin](https://www.polito.it/?lang=en).
-My research activities are currently focusing on the optimization of seismic retrofitting interventions in existing structures [(see my last pubblications)](https://antoniosberna.github.io/publication/).
+My research activities are currently focusing mainly on the optimization of seismic retrofitting interventions in existing structures [(see my last pubblications)](https://antoniosberna.github.io/publication/).
 
 How to reach me 📫:
   - [antonio DOT sberna AT](mailto:antonio.sberna@polito.it) 
