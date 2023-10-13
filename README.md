@@ -4,7 +4,7 @@ I’m currently a PhD student at [Polytechnique University of Turin](https://www
 My research activities are currently focusing mainly on the optimization of seismic retrofitting interventions in existing structures [(see my last pubblications)](https://antoniosberna.github.io/publication/).
 
 How to reach me 📫:
-  - [antonio DOT sberna AT](mailto:antonio.sberna@polito.it) 
+  - [antonio DOT sberna AT polito DOT it](mailto:antonio.sberna@polito.it) 
   - [antoniosberna.github.io/](antoniosberna.github.io/)
 
 <!---
