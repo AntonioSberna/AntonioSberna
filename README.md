@@ -1,11 +1,20 @@
-Hi, you just reached the GitHub profile of [Antonio Sberna](antoniosberna.github.io/).
+# Welcome
 
-I’m currently a Research Fellow at [Polytechnique University of Turin](https://www.polito.it/?lang=en).
-My research activities are currently focusing mainly on the optimization of seismic retrofitting interventions in existing structures [(see my last pubblications)](https://antoniosberna.github.io/publication/).
+Hi, you just reached the profile of [Antonio Sberna](https://antoniosberna.github.io/), a Research Fellow at the [Polytechnic University of Turin](https://www.polito.it/?lang=en). My research centers on developing innovative approaches to optimize **seismic retrofitting** interventions for existing structures, leveraging both **evolutionary algorithms** and **parametric models**. My recent publications can be found [here](https://antoniosberna.github.io/publication/).
 
-How to reach me 📫:
-  - [antonio DOT sberna AT polito DOT it](mailto:antonio.sberna@polito.it) 
-  - [antoniosberna.github.io/](antoniosberna.github.io/)
+> *Note*: Due to scientific publication requirements, most of my repositories are currently private. However, I’m working on making several projects public in the near future.
+
+## 🔍 Research Interests
+- **Seismic Engineering**: Strategies for retrofitting and enhancing the resilience of existing structures
+- **Optimization Algorithms**: Applying AI and evolutionary computation to solve engineering problems
+- **Structural Analysis**: Using tools like OpenSees to simulate structural behavior under seismic loads and so
+
+## 📫 How to Reach Me
+- Email: [antonio DOT sberna AT polito DOT it](mailto:antonio.sberna@polito.it)
+- Website: [antoniosberna.github.io](https://antoniosberna.github.io/)
+
+Thanks for visiting my profile, and feel free to check back for upcoming open-source projects!
+
 
 <!---
 AntonioSberna/AntonioSberna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
