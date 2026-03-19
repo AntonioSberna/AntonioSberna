@@ -13,6 +13,8 @@ Hi, you just reached the profile of [Antonio Sberna](https://antoniosberna.githu
 - Email: [antonio DOT sberna AT polito DOT it](mailto:antonio.sberna@polito.it)
 - Website: [antoniosberna.github.io](https://antoniosberna.github.io/)
 
+GPG Key: [007BA6C398EF6681181E62D58B993986B9C92821](https://keys.openpgp.org/search?q=007BA6C398EF6681181E62D58B993986B9C92821)
+
 Thanks for visiting my profile, and feel free to check back for upcoming open-source projects!
 
 
